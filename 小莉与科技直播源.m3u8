@@ -5763,31 +5763,3 @@ http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1 ,[XK]RTK 2
 http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/chunklist_w4886007.m3u8
-#EXTINF:-1 ,[XK]RTK 2 (720p)
-http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
-#EXTINF:-1 ,[XK]RTK 2 (720p)
-http://stream2.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
-#EXTINF:-1 ,[XK]RTK 3 (720p)
-http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
-#EXTINF:-1 ,[XK]RTK 3
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/chunklist_w2121045972.m3u8
-#EXTINF:-1 ,[XK]Peace TV Albanian (Peace TV Shqip)
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 ,[XK]RTK 3 HD
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/chunklist.m3u8
-#EXTINF:-1 ,[XK]RTK 4 (720p)
-http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:-1 ,[XK]RTK 4
-http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/chunklist.m3u8
-#EXTINF:-1 ,[也门]الغد المشرق
-http://82.212.74.3:8000/live/hls/7512.m3u8
-#EXTINF:-1 ,[也门]Al Mahrah
-http://82.212.74.99:8000/live/hls/8173.m3u8
-#EXTINF:-1 ,[也门]Suhail TV
-http://82.212.74.98:8000/live/hls/7726.m3u8
-#EXTINF:-1 ,[也门]Alerth Alnabawi
-http://82.212.74.2:8000/live/7307.m3u8
-#EXTINF:-1 ,[也门]Alghad Almushreq
-http://82.212.74.3:8000/live/7512.m3u8
-#EXTINF:-1 ,[也门]Yemen Shabab
-https://master.starmena-cloud.com/hls/yemenshabab.m3u8
